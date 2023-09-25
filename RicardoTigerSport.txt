@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ricardo Tiger - Sportes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f2f8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0074D9; /* Cor azul para o cabeçalho */
+            padding: 20px;
+            color: white;
+            text-align: center;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .conteudo {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Página de Esportes</h1>
+    </header>
+    <div class="conteudo">
+        <h2>Notícias de Esportes</h2>
+        <p>Bem-vindo à nossa página de esportes. Aqui você encontrará as últimas notícias e atualizações sobre esportes de todo o mundo.</p>
+        <h2>Principais Eventos Esportivos</h2>
+        <ul>
+            <li><a href="#">Copa do Mundo de Futebol</a></li>
+            <li><a href="#">Jogos Olímpicos</a></li>
+            <li><a href="#">Super Bowl</a></li>
+        </ul>
+    </div>
+</body>
+</html>
